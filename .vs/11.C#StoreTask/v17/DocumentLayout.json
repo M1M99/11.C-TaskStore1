@@ -1,0 +1,229 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ASUS\\source\\repos\\11.C#StoreTask\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7B2C8C39-C1BC-4E82-A544-9DD0608151D9}|11.C#StoreTask\\11.C#StoreTask.csproj|c:\\users\\asus\\source\\repos\\11.c#storetask\\11.c#storetask\\category\\clothers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B2C8C39-C1BC-4E82-A544-9DD0608151D9}|11.C#StoreTask\\11.C#StoreTask.csproj|solutionrelative:11.c#storetask\\category\\clothers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B2C8C39-C1BC-4E82-A544-9DD0608151D9}|11.C#StoreTask\\11.C#StoreTask.csproj|c:\\users\\asus\\source\\repos\\11.c#storetask\\11.c#storetask\\category\\catologfood.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B2C8C39-C1BC-4E82-A544-9DD0608151D9}|11.C#StoreTask\\11.C#StoreTask.csproj|solutionrelative:11.c#storetask\\category\\catologfood.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B2C8C39-C1BC-4E82-A544-9DD0608151D9}|11.C#StoreTask\\11.C#StoreTask.csproj|c:\\users\\asus\\source\\repos\\11.c#storetask\\11.c#storetask\\category\\buildingmaterialsfcategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B2C8C39-C1BC-4E82-A544-9DD0608151D9}|11.C#StoreTask\\11.C#StoreTask.csproj|solutionrelative:11.c#storetask\\category\\buildingmaterialsfcategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B2C8C39-C1BC-4E82-A544-9DD0608151D9}|11.C#StoreTask\\11.C#StoreTask.csproj|c:\\users\\asus\\source\\repos\\11.c#storetask\\11.c#storetask\\category\\methodsforelect.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B2C8C39-C1BC-4E82-A544-9DD0608151D9}|11.C#StoreTask\\11.C#StoreTask.csproj|solutionrelative:11.c#storetask\\category\\methodsforelect.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B2C8C39-C1BC-4E82-A544-9DD0608151D9}|11.C#StoreTask\\11.C#StoreTask.csproj|c:\\users\\asus\\source\\repos\\11.c#storetask\\11.c#storetask\\category\\electronics.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B2C8C39-C1BC-4E82-A544-9DD0608151D9}|11.C#StoreTask\\11.C#StoreTask.csproj|solutionrelative:11.c#storetask\\category\\electronics.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B2C8C39-C1BC-4E82-A544-9DD0608151D9}|11.C#StoreTask\\11.C#StoreTask.csproj|c:\\users\\asus\\source\\repos\\11.c#storetask\\11.c#storetask\\category\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B2C8C39-C1BC-4E82-A544-9DD0608151D9}|11.C#StoreTask\\11.C#StoreTask.csproj|solutionrelative:11.c#storetask\\category\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B2C8C39-C1BC-4E82-A544-9DD0608151D9}|11.C#StoreTask\\11.C#StoreTask.csproj|c:\\users\\asus\\source\\repos\\11.c#storetask\\11.c#storetask\\files\\signin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B2C8C39-C1BC-4E82-A544-9DD0608151D9}|11.C#StoreTask\\11.C#StoreTask.csproj|solutionrelative:11.c#storetask\\files\\signin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B2C8C39-C1BC-4E82-A544-9DD0608151D9}|11.C#StoreTask\\11.C#StoreTask.csproj|c:\\users\\asus\\source\\repos\\11.c#storetask\\11.c#storetask\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B2C8C39-C1BC-4E82-A544-9DD0608151D9}|11.C#StoreTask\\11.C#StoreTask.csproj|solutionrelative:11.c#storetask\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B2C8C39-C1BC-4E82-A544-9DD0608151D9}|11.C#StoreTask\\11.C#StoreTask.csproj|c:\\users\\asus\\source\\repos\\11.c#storetask\\11.c#storetask\\files\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B2C8C39-C1BC-4E82-A544-9DD0608151D9}|11.C#StoreTask\\11.C#StoreTask.csproj|solutionrelative:11.c#storetask\\files\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B2C8C39-C1BC-4E82-A544-9DD0608151D9}|11.C#StoreTask\\11.C#StoreTask.csproj|c:\\users\\asus\\source\\repos\\11.c#storetask\\11.c#storetask\\files\\listfor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B2C8C39-C1BC-4E82-A544-9DD0608151D9}|11.C#StoreTask\\11.C#StoreTask.csproj|solutionrelative:11.c#storetask\\files\\listfor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B2C8C39-C1BC-4E82-A544-9DD0608151D9}|11.C#StoreTask\\11.C#StoreTask.csproj|c:\\users\\asus\\source\\repos\\11.c#storetask\\11.c#storetask\\record.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B2C8C39-C1BC-4E82-A544-9DD0608151D9}|11.C#StoreTask\\11.C#StoreTask.csproj|solutionrelative:11.c#storetask\\record.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B2C8C39-C1BC-4E82-A544-9DD0608151D9}|11.C#StoreTask\\11.C#StoreTask.csproj|c:\\users\\asus\\source\\repos\\11.c#storetask\\11.c#storetask\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B2C8C39-C1BC-4E82-A544-9DD0608151D9}|11.C#StoreTask\\11.C#StoreTask.csproj|solutionrelative:11.c#storetask\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\11.C#StoreTask\\11.C#StoreTask\\Program.cs",
+              "RelativeDocumentMoniker": "11.C#StoreTask\\Program.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\11.C#StoreTask\\11.C#StoreTask\\Program.cs",
+              "RelativeToolTip": "11.C#StoreTask\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T02:14:48.633Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Electronics.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\11.C#StoreTask\\11.C#StoreTask\\Category\\Electronics.cs",
+              "RelativeDocumentMoniker": "11.C#StoreTask\\Category\\Electronics.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\11.C#StoreTask\\11.C#StoreTask\\Category\\Electronics.cs",
+              "RelativeToolTip": "11.C#StoreTask\\Category\\Electronics.cs",
+              "ViewState": "AQIAAIoAAAAAAAAAAAA4wKEAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T13:56:23.889Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Login.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\11.C#StoreTask\\11.C#StoreTask\\Files\\Login.cs",
+              "RelativeDocumentMoniker": "11.C#StoreTask\\Files\\Login.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\11.C#StoreTask\\11.C#StoreTask\\Files\\Login.cs",
+              "RelativeToolTip": "11.C#StoreTask\\Files\\Login.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T02:39:17.634Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MethodsForElect.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\11.C#StoreTask\\11.C#StoreTask\\Category\\MethodsForElect.cs",
+              "RelativeDocumentMoniker": "11.C#StoreTask\\Category\\MethodsForElect.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\11.C#StoreTask\\11.C#StoreTask\\Category\\MethodsForElect.cs",
+              "RelativeToolTip": "11.C#StoreTask\\Category\\MethodsForElect.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAUwG8AAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T15:26:41.497Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BuildingMaterialsFCategory.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\11.C#StoreTask\\11.C#StoreTask\\Category\\BuildingMaterialsFCategory.cs",
+              "RelativeDocumentMoniker": "11.C#StoreTask\\Category\\BuildingMaterialsFCategory.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\11.C#StoreTask\\11.C#StoreTask\\Category\\BuildingMaterialsFCategory.cs",
+              "RelativeToolTip": "11.C#StoreTask\\Category\\BuildingMaterialsFCategory.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-29T09:14:25.465Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CatologFood.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\11.C#StoreTask\\11.C#StoreTask\\Category\\CatologFood.cs",
+              "RelativeDocumentMoniker": "11.C#StoreTask\\Category\\CatologFood.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\11.C#StoreTask\\11.C#StoreTask\\Category\\CatologFood.cs",
+              "RelativeToolTip": "11.C#StoreTask\\Category\\CatologFood.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACkAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-28T13:53:18.366Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Clothers.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\11.C#StoreTask\\11.C#StoreTask\\Category\\Clothers.cs",
+              "RelativeDocumentMoniker": "11.C#StoreTask\\Category\\Clothers.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\11.C#StoreTask\\11.C#StoreTask\\Category\\Clothers.cs",
+              "RelativeToolTip": "11.C#StoreTask\\Category\\Clothers.cs",
+              "ViewState": "AQIAABcAAAAAAAAAAAAUwCgAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-29T09:35:34.874Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\11.C#StoreTask\\11.C#StoreTask\\Category\\Category.cs",
+              "RelativeDocumentMoniker": "11.C#StoreTask\\Category\\Category.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\11.C#StoreTask\\11.C#StoreTask\\Category\\Category.cs",
+              "RelativeToolTip": "11.C#StoreTask\\Category\\Category.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAQwHMAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T15:53:09.67Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "SignIn.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\11.C#StoreTask\\11.C#StoreTask\\Files\\SignIn.cs",
+              "RelativeDocumentMoniker": "11.C#StoreTask\\Files\\SignIn.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\11.C#StoreTask\\11.C#StoreTask\\Files\\SignIn.cs",
+              "RelativeToolTip": "11.C#StoreTask\\Files\\SignIn.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T02:46:49.526Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ListFor.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\11.C#StoreTask\\11.C#StoreTask\\Files\\ListFor.cs",
+              "RelativeDocumentMoniker": "11.C#StoreTask\\Files\\ListFor.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\11.C#StoreTask\\11.C#StoreTask\\Files\\ListFor.cs",
+              "RelativeToolTip": "11.C#StoreTask\\Files\\ListFor.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-30T13:48:59.602Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Record.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\11.C#StoreTask\\11.C#StoreTask\\Record.cs",
+              "RelativeDocumentMoniker": "11.C#StoreTask\\Record.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\11.C#StoreTask\\11.C#StoreTask\\Record.cs",
+              "RelativeToolTip": "11.C#StoreTask\\Record.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-30T13:48:54.622Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Menu.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\11.C#StoreTask\\11.C#StoreTask\\Menu.cs",
+              "RelativeDocumentMoniker": "11.C#StoreTask\\Menu.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\11.C#StoreTask\\11.C#StoreTask\\Menu.cs",
+              "RelativeToolTip": "11.C#StoreTask\\Menu.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAQwAIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T07:49:03.446Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
