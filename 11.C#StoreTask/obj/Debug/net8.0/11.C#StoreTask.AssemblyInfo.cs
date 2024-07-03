@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("11.C#StoreTask")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f7bce12ff290b1b8920098b48ba283fbd135ad27")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+39d87ad79ce01f44abd395c5d335480649399518")]
 [assembly: System.Reflection.AssemblyProductAttribute("11.C#StoreTask")]
 [assembly: System.Reflection.AssemblyTitleAttribute("11.C#StoreTask")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

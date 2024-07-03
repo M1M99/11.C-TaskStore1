@@ -67,8 +67,7 @@
               "ViewState": "AQIAAGAAAAAAAAAAAAA0wKcAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-25T13:56:23.889Z",
-              "IsPinned": true,
-              "EditorCaption": ""
+              "IsPinned": true
             },
             {
               "$type": "Document",
@@ -81,8 +80,7 @@
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAZAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-02T15:56:56.742Z",
-              "IsPinned": true,
-              "EditorCaption": ""
+              "IsPinned": true
             },
             {
               "$type": "Document",
@@ -92,7 +90,7 @@
               "RelativeDocumentMoniker": "11.C#StoreTask\\Category\\MethodsForElect.cs",
               "ToolTip": "C:\\Users\\ASUS\\source\\repos\\11.C#StoreTask\\11.C#StoreTask\\Category\\MethodsForElect.cs",
               "RelativeToolTip": "11.C#StoreTask\\Category\\MethodsForElect.cs",
-              "ViewState": "AQIAAF0AAAAAAAAAAAApwHAAAAAcAAAA",
+              "ViewState": "AQIAAMcAAAAAAAAAAAAIwNcAAAA7AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-25T15:26:41.497Z",
               "IsPinned": true,
@@ -108,8 +106,7 @@
               "RelativeToolTip": "11.C#StoreTask\\Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAEAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-03T12:19:57.676Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-03T12:19:57.676Z"
             },
             {
               "$type": "Document",
@@ -121,8 +118,7 @@
               "RelativeToolTip": "11.C#StoreTask\\Files\\Login.cs",
               "ViewState": "AQIAAA4AAAAAAAAAAIA/wCEAAAAQAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-03T07:47:57.269Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-03T07:47:57.269Z"
             },
             {
               "$type": "Document",
@@ -134,8 +130,7 @@
               "RelativeToolTip": "11.C#StoreTask\\Files\\Amount.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAbAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-03T05:15:40.571Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-03T05:15:40.571Z"
             },
             {
               "$type": "Document",
@@ -147,8 +142,7 @@
               "RelativeToolTip": "11.C#StoreTask\\Category\\BuildingMaterialsFCategory.cs",
               "ViewState": "AQIAAAYAAAAAAAAAAAAAAAsAAAAvAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-29T09:14:25.465Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-29T09:14:25.465Z"
             },
             {
               "$type": "Document",
@@ -160,8 +154,7 @@
               "RelativeToolTip": "11.C#StoreTask\\Category\\CatologFood.cs",
               "ViewState": "AQIAAAUAAAAAAAAAAAAxwCkAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-28T13:53:18.366Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-28T13:53:18.366Z"
             },
             {
               "$type": "Document",
@@ -173,8 +166,7 @@
               "RelativeToolTip": "11.C#StoreTask\\Category\\Clothers.cs",
               "ViewState": "AQIAAA0AAAAAAAAAAAAwwBYAAAAbAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-29T09:35:34.874Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-29T09:35:34.874Z"
             },
             {
               "$type": "Document",
@@ -186,8 +178,7 @@
               "RelativeToolTip": "11.C#StoreTask\\Category\\Category.cs",
               "ViewState": "AQIAAHEAAAAAAAAAAAAQwJUAAAAnAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-24T15:53:09.67Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-24T15:53:09.67Z"
             },
             {
               "$type": "Document",
@@ -199,8 +190,7 @@
               "RelativeToolTip": "11.C#StoreTask\\Files\\SignIn.cs",
               "ViewState": "AQIAACUAAAAAAAAAAAAwwAIAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-24T02:46:49.526Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-24T02:46:49.526Z"
             }
           ]
         }
