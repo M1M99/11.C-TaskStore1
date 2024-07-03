@@ -20,7 +20,7 @@
             Color = color;
             try
             {
-                if (_Id <= /*methods.ForClothers.Count()*/ 5)
+                if (_Id <= 6)
                 {
                      Id = _Id++;
                 }
@@ -35,7 +35,7 @@
         }
         public override string ToString()
         {
-            return $"{Name} {Description} {Material} {Size} {Price} {Color}";
+            return $"{Id} {Name} {Description} {Material} {Size} {Price} {Color}";
         }
     }
 }

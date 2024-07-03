@@ -12,3 +12,4 @@ C:\Users\ASUS\source\repos\11.C#StoreTask\11.C#StoreTask\obj\Debug\net8.0\refint
 C:\Users\ASUS\source\repos\11.C#StoreTask\11.C#StoreTask\obj\Debug\net8.0\11.C#StoreTask.pdb
 C:\Users\ASUS\source\repos\11.C#StoreTask\11.C#StoreTask\obj\Debug\net8.0\11.C#StoreTask.genruntimeconfig.cache
 C:\Users\ASUS\source\repos\11.C#StoreTask\11.C#StoreTask\obj\Debug\net8.0\ref\11.C#StoreTask.dll
+C:\Users\ASUS\source\repos\11.C#StoreTask\11.C#StoreTask\obj\Debug\net8.0\11.C#StoreTask.sourcelink.json

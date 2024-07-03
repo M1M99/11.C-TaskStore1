@@ -15,9 +15,22 @@ namespace _11.C_StoreTask.Category
 
         public BuildingMaterialsFCategory(decimal price,string name)
         {
-            Id = _id++;
             Price = price;
             Name = name;
+            try
+            {
+                if (_id <= /*methods.list1.Count()*/ 7)
+                {
+                    Id = _id++;
+                }
+
+                else
+                {
+                    _id = 1;
+                    Id = _id++;
+                }
+            }
+            catch { };
         }
         public override string ToString()
         {

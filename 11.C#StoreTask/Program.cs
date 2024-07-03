@@ -2,5 +2,6 @@
 Menu m = new Menu();
 while (true)
 {
+    File.Delete("F.json");
     m.ShowM();
 }

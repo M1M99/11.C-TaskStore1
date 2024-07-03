@@ -67,11 +67,10 @@
         }
 
     }
-
     public class Modems : Elect
     {
-        private static int _modemId { get; set; } = 1;
-        private int Id { get; set; }
+        public static int _modemId { get; set; } = 0;
+        public int Id { get; set; }
 
         public Modems(string? vendor, string? model, decimal price)
         {
@@ -94,9 +93,7 @@
             }
             catch { };
         }
-
         public Modems() { }
-
         public override string ToString()
         {
             Modems t1 = new Modems();
@@ -152,7 +149,6 @@
                 {
                     ID2 = _CID++;
                 }
-
                 else
                 {
                     _CID = 1;
@@ -170,4 +166,3 @@
         }
     }
 }
-

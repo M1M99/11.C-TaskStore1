@@ -25,14 +25,14 @@ namespace _11.C_StoreTask.Files
                     break;
                 }
             }
+            l:
             if (loggedIn)
             {
                 Console.Clear();
                 Categorys category = new Categorys();
                 Console.WriteLine("Successful");
                 category.Showcategory();
-                //Console.WriteLine("Davam Etmek Ucun - Enter.");
-                //Console.ReadKey();
+                goto l;
             } 
             else
             {
